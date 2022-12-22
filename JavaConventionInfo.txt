@@ -1,0 +1,4 @@
+All classes in Java are named in camel case convention.
+function in java used lower camel case convention.
+variables in java dont start with numbers or symbols they start with letters.
+Java is case sensitive language.
